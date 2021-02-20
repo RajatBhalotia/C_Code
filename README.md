@@ -1,1 +1,1 @@
-# C_Code
+This code copies image using c programming language.
