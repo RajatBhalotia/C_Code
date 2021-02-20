@@ -2,7 +2,7 @@
 void main(){
 FILE *fp_original,*fp_copy;
 char original[100],copy[100],data[10];
-printf("n");
+//printf("n");
 //The path of the image which is to be copied
 printf("Enter the path of the image to be copied");
 scanf("%s",original);
